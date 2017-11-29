@@ -1,0 +1,38 @@
+{
+    "schemaVersion": 2,
+    "title": "Ring Puzzle",
+    "description": "A simple puzzle game with toroidal topology.",
+    "author": "Skuratovich Sergey",
+    "version": "1.1",
+    "date": "2017-11-29",
+    "genre": "Puzzle",
+    "publisher": "Skuratovich Sergey",
+    "idea": "Skuratovich Sergey",
+    "code": "Skuratovich Sergey",
+    "art": "Skuratovich Sergey",
+    "sound": "",
+    "url": "https://github.com/SSNikolaevich/ring_puzzle_game",
+    "sourceUrl": "https://github.com/SSNikolaevich/ring_puzzle_game",
+    "banner": "banner.png",
+    "screenshots": [
+        {"title": "Title screen", "filename": "title_screen.png"},
+        {"title": "Gameplay", "filename": "gameplay.png"},
+        {"title": "Complete puzzle", "filename": "puzzle.png"}
+    ],
+    "binaries": [
+        {
+            "title": "Compiled binary",
+            "filename": "ring_puzzle_game.ino.leonardo.hex",
+            "device": "Arduboy"
+        }
+    ],
+    "buttons": [
+        {"control": "A", "action": "Hold to switch to move mode"},
+        {"control": "B", "action": "Hold to view goal"},
+        {"control": "Up or Down", "action": "Row selection. While in move mode: rotates column."},
+        {"control": "Left or Right", "action": "Column selection. While in move mode: rotates row."}
+    ],
+    "eeprom": {"variable": false, "start": 58, "end": 62},
+    "youtube_video_id": "nojhQ64gV3A"
+}
+
