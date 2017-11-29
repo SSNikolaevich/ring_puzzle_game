@@ -139,7 +139,7 @@ void GameStage::drawKeyBindings() const {
 void GameStage::drawVersionAndYear() const {
     tinyfont.setTextColor(WHITE);
     tinyfont.setCursor(8, HEIGHT - 20);
-    tinyfont.print("v1.0");
+    tinyfont.print("v1.1");
     tinyfont.setCursor(8, HEIGHT - 12);
     tinyfont.print("2017");
 }
