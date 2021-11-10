@@ -16,4 +16,4 @@ system.
 
 ## Gameplay video
 
-![Gameplay video on Youtube](https://www.youtube.com/watch?v=nojhQ64gV3A)
+[Gameplay video on Youtube](https://www.youtube.com/watch?v=nojhQ64gV3A)
